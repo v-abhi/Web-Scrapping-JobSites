@@ -38,36 +38,11 @@ NEW_METHODS
         any EXCEL programe that can handle CSV file
     
     
-        LIBRARIES : bs4 and requests
-            if not installed 
-            install them
-            contact google
-        
-    
-        
-    HOW TO USE : 
-        download a file named "job_scrapper.zip"
-        unzip or extract files from this
-        
-        open "command prompt" or "terminal" in windows and ubuntu respectivellyg
-        go to the folder in which files are located i.e. in folder named "job_scrapper"
-        
-        run the python programe named "job_details_scrapper.py"
-            command :
-                python3 job_details_scrapper.py
-    
-    
-    
-    
+        LIBRARIES : 
+            bs4 
+            requests
+           
   
-    RESULTS :
-    
-        after 1-2 minutes after completion of this programe
-        
-        A CSV FILE named "job_file.csv" will be created containing details
-        
-        
-        
         
         
     REMARKS :
